@@ -1,5 +1,18 @@
 ### Pablo Fonseca
 
+I have an honours bachelor’s degree in Biological Science (2012) and a Master of Science (2014) in Genetics (emphasis in Genomics and Bioinformatics) from the Federal University of Minas Gerais, Brazil. Currently, I am a Post-Foctoral Fellow at the Universidad de Leon developing studies for the integration of multiple omics data for the investigation of the genetic basis of complex traits associated with feed effciency and resilience in sheep. Previously (2018-2021), I was a Post-Doctoral Fellow at the University of Guelph, where I was developing studies focused on the identification of genomic regions and metabolic pathways associated with reproductive and production traits in livestock species. I have experience in high-density genotyping data analysis, next-generation sequencing, genome-wide association studies (GWAS) and system biology. The main goals of my research are the development of bioinformatic and statistical tools for the idientification of candidate genes for complex traits, functional analysis to identify biological processes regulating economically relevant traits and data-mining and data integration.
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pablo-rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pablo-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Pablo-Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">  
+</div>
+  
+  ##
+
 [![GitHub Badge](https://img.shields.io/github/followers/pablobio?style=social)](https://github.com/pablobio)
 [![Twitter Badge](https://img.shields.io/twitter/follow/pablo_bio?style=social)](https://twitter.com/pablo_bio)
 [![Gmail Badge](https://img.shields.io/badge/-pablofonseca.bio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablofonseca.bio@gmail.com)](mailto:pablofonseca.bio@gmail.com)
@@ -7,14 +20,15 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=1VUm8EIAAAAJ&hl=pt-BR)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Pablo_Fonseca2)
 [![Website Badge](https://img.shields.io/badge/My-Website-red)](https://animalbiosciences.uoguelph.ca/abscpeople/pfonseca)
+<a href="https://www.youtube.com/channel/UCOcUhsDTNeSIH5J-prbqF-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-I have an honours bachelor’s degree in Biological Science (2012) and a Master of Science (2014) in Genetics (emphasis in Genomics and Bioinformatics) from the Federal University of Minas Gerais, Brazil. Currently, I am a Post-Foctoral Fellow at the University of Guelph under a supervision of Dr. Angela Canovas, developing studies focused on the identification of genomic regions and metabolic pathways associated with reproductive and production traits in livestock species. I have experience in high-density genotyping data analysis, next-generation sequencing, genome-wide association studies (GWAS) and system biology. The main goals of my research are the development of bioinformatic and statistical tools for the idientification of candidate genes for complex traits, functional analysis to identify biological processes regulating economically relevant traits and data-mining and data integration.
+##
 
 ---
 
 ### Open-source Projects
 
-- **R packages:** [GALLO](https://github.com/pablobio/GALLO)
+- **R packages:** [GALLO](https://cran.r-project.org/web/packages/GALLO/index.html)
 
 ---
 
